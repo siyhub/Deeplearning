@@ -1,2 +1,2 @@
-# dypl-ring
-Mask RCNN -Dyplæringsmodellen som er benyttet i bacheloroppgaven
+# Deeplearning
+Mask RCNN - deeplearning-modellen som er benyttet i bacheloroppgaven.
